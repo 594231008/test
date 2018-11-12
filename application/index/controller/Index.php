@@ -10,5 +10,6 @@ class Index
     
     public function test(){
         echo '123';
+        echo 'xmg';
     }
 }
