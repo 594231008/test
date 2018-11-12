@@ -12,5 +12,6 @@ class Index
         echo '123';
         echo 'xmg';
         echo 'aaaa';
+        echo "test";
     }
 }
