@@ -14,5 +14,6 @@ class Index
         echo 'aaaa';
         echo "test";
         echo "new test";
+        echo "new project"; 
     }
 }
